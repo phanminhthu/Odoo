@@ -76,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
                     return true;
             }
         }
+        System.out.println("fffffff");
         return super.onKeyDown(keyCode, event);
     }
 
